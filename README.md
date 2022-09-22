@@ -1,12 +1,6 @@
-![MasterHead](https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232?k=20&m=636526232&s=170667a&w=0&h=Gr4lG-mwzctLhPganTlK5SFaEKKXqjnmPQbWWavBLFA=)
-
 <h1 align="center">Hi 👋, I'm Karanveer Maheshwari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanveer97&label=Profile%20views&color=0e75b6&style=flat" alt="karanveer97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanveer97" alt="karanveer97" /></a> </p>
 
 - 🔭 I’m currently working on **Data Ingestion Pipelines**
 
