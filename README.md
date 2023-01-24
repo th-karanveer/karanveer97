@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Karanveer</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 - 🔭 I’m currently working on **Data Ingestion Pipelines**
