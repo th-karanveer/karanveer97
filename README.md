@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karanveer Muqand Krishna</h1>
+<h1 align="center">Hello, I'm Karanveer</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
